@@ -40,7 +40,7 @@ EnterprisePOS is a Windows Forms Point of Sale and Inventory Management System.
 
 
 
-1\. Clone or download this repository.
+1\. Clone this repository.
 
 2\. Open EnterprisePOS.slnx in Visual Studio.
 
